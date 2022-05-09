@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on fixing all my repos with perfect READMES for my future employers 
-- 🌱 I’m currently in the Rutgers Coding Bootcamp
 - 👯 I’m looking to collaborate on any projects that i believe i can help develop
 - 💬 Ask me about anything!
 - 📫 How to reach me: Check my links in my profile
